@@ -1,0 +1,22 @@
+{
+  "name": "Fantasy Junior A FBG",
+  "short_name": "Fantasy FBG",
+  "description": "App de gestión gamificada del Fundación CB Granada",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1C1C1C",
+  "theme_color": "#E30613",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Fundaci%C3%B3n_CB_Granada_logo.svg/192px-Fundaci%C3%B3n_CB_Granada_logo.svg.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Fundaci%C3%B3n_CB_Granada_logo.svg/512px-Fundaci%C3%B3n_CB_Granada_logo.svg.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
